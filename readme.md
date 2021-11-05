@@ -40,5 +40,3 @@ git clone https://github.com/xxxx/multisigwallet.git
 ``` bash
 nginx
 ```
-
-Translated with www.DeepL.com/Translator (free version)
